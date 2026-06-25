@@ -22,3 +22,4 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Azeez-911/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
+| [88. Merge Sorted Array](./01-easy/0088-merge-sorted-array/README.md) | Easy | `unknown` | N/A | N/A | Jun 25, 2026 |
